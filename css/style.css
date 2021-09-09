@@ -1,0 +1,12 @@
+.box_1{
+  width: 100%;
+  height: 1000px;
+  background: red;
+}
+.i_box{
+  width: 80%;
+  height: 900px;
+  background: blue;
+  margin: auto;
+  margin-top: 50px;
+}
